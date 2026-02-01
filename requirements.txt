@@ -1,0 +1,36 @@
+# R Package Dependencies
+# Install using: install.packages(c("package1", "package2", ...))
+
+# Core survival analysis
+flexsurv
+survival
+survminer
+
+# Data simulation
+simsurv
+
+# Data manipulation
+dplyr
+
+# Clustering methods
+cluster
+clustMixType
+kamila
+mclust
+factoextra
+
+# Statistical methods
+MASS
+
+# Parallel processing
+parallel
+future.apply
+
+# Machine learning
+caret
+
+# Visualization and reporting
+gtsummary
+
+# Note: Some packages may require additional system dependencies
+# For example, clustMixType may require compilation tools

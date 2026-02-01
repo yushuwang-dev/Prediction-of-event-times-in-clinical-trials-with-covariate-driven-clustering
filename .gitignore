@@ -1,0 +1,46 @@
+# R specific
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+*.Rproj.user
+
+# Output files
+*.csv
+*.rds
+*.RDS
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.svg
+
+# Data files (if sensitive)
+# Uncomment if data should not be tracked
+# *.rds
+# data/
+# Data/
+
+# Temporary files
+*.tmp
+*.swp
+*.log
+*.out
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup files
+*~
+*.bak
+*.backup
