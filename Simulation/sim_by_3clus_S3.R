@@ -5,13 +5,6 @@
 # This script performs a simulation study to evaluate milestone event time
 # prediction methods using covariate-driven clustering.
 #
-# Key Functions:
-#   - simulate_covariates(): Generate cluster-specific patient covariates
-#   - predict_milestone(): Predict milestone times using cluster-specific models
-#   - rolling_milestone_prediction(): Rolling landmark analysis
-#   - info_frac_prediction(): Information fraction analysis
-#   - sim_func(): Main simulation function
-#
 # Output:
 #   - all_results_s3_n_[n_total].rds: Complete simulation results
 #   - predict_timepoints_s3_n_[n_total].csv: Results by landmark time
